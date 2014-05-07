@@ -1,0 +1,75 @@
+; Mon May 05 13:17:23 CEST 2014
+; 
+;+ (version "3.4.8")
+;+ (build "Build 629")
+
+([addresses] of  %3AJADE-SLOT
+
+	(%3AJADE-UNNAMED-SLOT FALSE))
+
+([AgentAction] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE TRUE))
+
+([AID] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE TRUE))
+
+([Concept] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE TRUE))
+
+([Contract] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE FALSE))
+
+([DayEvent] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE FALSE))
+
+([Hotel] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE FALSE))
+
+([name] of  %3AJADE-SLOT
+
+	(%3AJADE-UNNAMED-SLOT FALSE))
+
+([NotificationDayEvent] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE FALSE))
+
+([Predicate] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE TRUE))
+
+([project+annotation] of  %3APROJECT-ANNOTATION
+
+	(%3ALOCATION "E:\\elts\\Documentos\\GitHub\\EMSE-Hotelmania-Ontology\\ontology\\src")
+	(%3AONTOLOGYNAME "SharedAgents")
+	(%3APACKAGE "hotelmania.ontology")
+	(%3ASUPPORT "j2se"))
+
+([RegistrationRequest] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE FALSE))
+
+([resolvers] of  %3AJADE-SLOT
+
+	(%3AJADE-UNNAMED-SLOT FALSE))
+
+([SignContract] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE FALSE))
+
+([SimpleJADEAbstractOntology_00014] of  %3ASTANDARD-FACET
+
+	(%3AASSOCIATED-SLOT [%3AJADE-NAME]))
+
+([SimpleJADEAbstractOntology_00016] of  %3ASTANDARD-FACET
+
+	(%3AASSOCIATED-SLOT [%3AJADE-UNNAMED-SLOT]))
+
+([SubscribeToDayEvent] of  %3AJADE-CLASS
+
+	(%3AJADE-IGNORE FALSE))
